@@ -9,7 +9,7 @@ Greetings, wanderer. Reason and OCaml ecosystem are now growing extremely fast a
 ## Tools
 
 * [**Bucklescript**](https://bucklescript.github.io/) - build system to build javascript from Reason/OCaml. It's simple, you can install it from npm and it produces kinda readable output. Considered as modern way to use Reason stack for frontend development. Packages for bucklescript usually use `bs-` prefix (e.g. `bs-fetch` is Reason/OCaml bindings to browsers `fetch` API)
-* [**JSOO - Js of OCaml**](https://github.com/ocsigen/js_of_ocaml) - not old but more earlier version of OCaml->Js transpiler. Focuses more on producing perfomant code. Read [Bucklescript to JSOO comparison](https://bucklescript.github.io/docs/en/comparison-to-jsoo)
+* [**JSOO - Js of OCaml**](https://github.com/ocsigen/js_of_ocaml) - not old but more earlier version of OCaml->Js transpiler. Focuses more on producing perfomant code. Read [Bucklescript to JSOO comparison](https://bucklescript.github.io/docs/en/comparison-to-jsoo) for more details
 * [**Esy**](https://esy.sh/) - modern package manager for both native and js Reason/OCaml that looks like yarn and works with `package.json`. It can work with both npm and opam repositories.
 * [**Pesy**](https://github.com/esy/pesy) - ?
 * [**Opam**](https://opam.ocaml.org/) - older package manager for native Reason/OCaml
