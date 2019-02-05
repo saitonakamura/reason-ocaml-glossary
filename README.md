@@ -1,4 +1,4 @@
-# Reasonml/OCaml glossary
+# ReasonML/OCaml glossary
 
 Greetings, wanderer. Reason and OCaml ecosystem are now growing extremely fast and may want to go aboard this train. But if you're coming from another ecosystem, say .NET of Java or JS (though it would be easier for frontend folks, because Reason ecosystem tries to be webstack-compatible), you may find this esy, dune, bucklescript, jsoo and whole bunch of other stuff pretty confusing. So I dared to cobble up a glossary of terms and tools for you to be in the context.
 
